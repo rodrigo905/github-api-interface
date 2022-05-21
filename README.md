@@ -1,3 +1,8 @@
+# Projeto Github API Interface
+
+Este projeto foi proposto no bootcamp da Spread na DIO, e tem como objetivo criar uma aplicação em React que consome a API do Github para exibir dados de usuários. Esta primeira versão é baseada na versão principal do Matheus Benites (usuário: benits).
+Abaixo o readme do projeto principal.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -13,12 +18,6 @@ We will create an application using the github public api.
 - Search infos by username
 - Search repo by username
 - Search starred by username
-
-### Preview
-
-Print of the finished project.
-
-![plot](./image/snapshot-1.png)
 
 ### Libraries used
 
